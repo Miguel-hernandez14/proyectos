@@ -27,17 +27,6 @@ Cada proyecto tiene como objetivo:
 - **Desarrollar habilidades**: en el uso de diversas herramientas y lenguajes de programación enfocados en el análisis de datos.
 - **Promover la práctica continua**: y el aprendizaje de nuevas técnicas y metodologías en el campo de la ciencia de datos.
 
-# Mis Proyectos
 
-### Proyecto 1: Web Scraping
-[Manchester City Stats 2023/24⚽](https://github.com/gonzadzz00/Proyectos/blob/main/%23Proyecto1%3A%20Web%20Scraping/README.md)
 
-### Proyecto 2: SQL Data Consulting
-[RetroRides Models Data Insights🚗](https://github.com/gonzadzz00/Proyectos/blob/main/%23Proyecto2%3A%20SQL%20Data%20Consulting/README.md)
-
-### Proyecto 3: Data Viz
-[Sharks Attacks Report🦈](https://github.com/gonzadzz00/Proyectos/blob/main/%23Proyecto3%3A%20Data%20Viz/README.md)
-
-### Proyecto 4: EDA
-[Exploratory Data Analysis Wine Quality🍷](https://github.com/gonzadzz00/Proyectos/blob/main/%23Proyecto4%3A%20EDA/README.md)
 
